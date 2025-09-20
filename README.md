@@ -1,4 +1,4 @@
-# Take Home Assignment: Scheduler with Recurring Slots
+# Scheduler with Recurring Slots
 
 
 ## Mockup 
